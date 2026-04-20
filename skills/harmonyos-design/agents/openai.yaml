@@ -1,0 +1,4 @@
+interface:
+  display_name: "HarmonyOS Design"
+  short_description: "鸿蒙 ArkUI 设计组件与交互实现指南"
+  default_prompt: "使用 $harmonyos-design 为当前 HarmonyOS ArkUI 页面或组件提供符合 HarmonyOS Design 的设计与实现方案。"

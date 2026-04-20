@@ -7,3 +7,4 @@
 | 技能 | 描述 | 使用 |
 |-----|------|-----|
 | [springboot-best-practices](./skills/springboot-best-practices) | Spring Boot 项目开发规范 | `/springboot-best-practices` |
+| [harmonyos-design](./skills/harmonyos-design) | HarmonyOS ArkUI 设计组件、交互模式与响应式实现指南 | `/harmonyos-design` |
