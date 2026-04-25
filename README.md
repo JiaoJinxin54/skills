@@ -8,3 +8,4 @@
 |-----|------|-----|
 | [springboot-best-practices](./skills/springboot-best-practices) | Spring Boot 项目开发规范 | `/springboot-best-practices` |
 | [harmonyos-design](./skills/harmonyos-design) | HarmonyOS ArkUI 设计组件、交互模式与响应式实现指南 | `/harmonyos-design` |
+| [harmonyos-account-kit-atomicservice](./skills/harmonyos-account-kit-atomicservice) | HarmonyOS 元服务 Account Kit 接入实践 | `/harmonyos-account-kit-atomicservice` |

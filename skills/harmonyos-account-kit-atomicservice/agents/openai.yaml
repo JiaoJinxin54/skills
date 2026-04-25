@@ -1,0 +1,4 @@
+interface:
+  display_name: "HarmonyOS Account Kit 元服务"
+  short_description: "Account Kit 元服务账号能力接入实践指南"
+  default_prompt: "Use $harmonyos-account-kit-atomicservice to implement Account Kit sign-in and FunctionalButton capabilities in a HarmonyOS atomic service."
